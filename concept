@@ -1,0 +1,8 @@
+In many areas, especially rural and underserved regions, pregnant women do not always receive timely medical care because high-risk pregnancies are difficult to identify early. 
+The Maternal Health Risk Predictor is designed to help address this problem by offering a simple digital tool that supports early risk identification.
+The system works through an easy-to-use web application where basic health details such as age, blood pressure, blood sugar level, body temperature, and heart rate can be entered.
+Based on this information, the system provides a clear risk indication—low, medium, or high—helping healthcare workers decide when extra care or follow-up is needed.
+The application is lightweight and does not require complex infrastructure, making it suitable for use in primary health centers and community outreach programs. 
+While the current version uses simple logic to assess risk, it can be upgraded in the future to include machine learning models trained on real maternal health data.
+Overall, the Maternal Health Risk Predictor aims to support healthcare workers in making faster and better-informed decisions
+  contributing to safer pregnancies and healthier outcomes for both mothers and newborns.
